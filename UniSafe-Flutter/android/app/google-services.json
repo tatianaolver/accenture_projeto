@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303215283767",
+    "project_id": "unisafe-4ad0a",
+    "storage_bucket": "unisafe-4ad0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303215283767:android:908428fa76699d07bcb9b2",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303215283767-cvrrfnb9a1rd4d01skjp1fv9bcaooeli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49Qvz1i5T6qPYmF7s9eK9kYooYh6hkSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303215283767-cvrrfnb9a1rd4d01skjp1fv9bcaooeli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
